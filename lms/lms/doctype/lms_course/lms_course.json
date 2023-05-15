@@ -260,7 +260,7 @@
   }
  ],
  "make_attachments_public": 1,
- "modified": "2023-05-11 17:08:19.763405",
+ "modified": "2023-05-15 15:42:35.498210",
  "modified_by": "Administrator",
  "module": "LMS",
  "name": "LMS Course",
@@ -288,6 +288,17 @@
    "read": 1,
    "report": 1,
    "role": "All",
+   "select": 1,
+   "share": 1,
+   "write": 1
+  },
+  {
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Student",
    "select": 1,
    "share": 1,
    "write": 1
